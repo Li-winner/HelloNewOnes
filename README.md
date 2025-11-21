@@ -1,2 +1,3 @@
 # HelloNewOnes
-many a little makes a much
+
+_此仓库旨在为铁道兵战队新人提供学习资料，知道学习方向_
